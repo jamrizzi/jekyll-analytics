@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'jekyll-analytics-patch'
-  s.version     = '0.1.0'
+  s.version     = '0.1.1'
   s.date        = '2018-01-21'
   s.summary     = "Jekyll plugin"
   s.description = "Plugin to easily add web analytics to your jekyll site without modifying your templates. Supported are: Google Analytics, Piwik, Matomo, MPulse"
